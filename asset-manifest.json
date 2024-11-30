@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.434bd4ff.css",
+    "main.js": "/static/js/main.61fc6f07.js",
+    "static/media/pipenv.png": "/static/media/pipenv.48acebbd8f887dd35e7b.png",
+    "static/media/FlaskDjango.jpg": "/static/media/FlaskDjango.f588b64da4f586068ad7.jpg",
+    "static/media/project3.jpg": "/static/media/project3.4f8775b5e19eb71a0229.jpg",
+    "static/media/project1.jpg": "/static/media/project1.55da8ab9597aa2a3ad17.jpg",
+    "static/media/project2.jpg": "/static/media/project2.ef80531c18d62f3c42a6.jpg",
+    "static/media/project6.jpg": "/static/media/project6.dcd671d568d2f42ff003.jpg",
+    "static/media/project4.jpg": "/static/media/project4.49304082651df43a4506.jpg",
+    "static/media/project5.jpg": "/static/media/project5.5a52bba17ac1115aec76.jpg",
+    "static/media/profile.jpg": "/static/media/profile.79fa8b8d6074f9cef75a.jpg",
+    "static/media/fullstackdjango.jpg": "/static/media/fullstackdjango.f6b2ea33a0dad27ad097.jpg",
+    "static/media/pythonaws.jpg": "/static/media/pythonaws.662908f99c316472d8cb.jpg",
+    "static/media/Python.png": "/static/media/Python.24f79e67affd248e1a48.png",
+    "static/media/logo.svg": "/static/media/logo.e422ca86014ad14ed818361ce3d7a2a9.svg",
+    "static/media/logo2.svg": "/static/media/logo2.b34d54a6d84876ef2b4fa457fa569c06.svg",
+    "index.html": "/index.html",
+    "main.434bd4ff.css.map": "/static/css/main.434bd4ff.css.map",
+    "main.61fc6f07.js.map": "/static/js/main.61fc6f07.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.434bd4ff.css",
+    "static/js/main.61fc6f07.js"
+  ]
+}
